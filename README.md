@@ -1,6 +1,3 @@
-Olá pessoal
-Ao realizar o procedimento mostrado na aula, pode ser que algum erro seja retornado para você
-Se isso acontecer, podemos realizar algumas verificações para solucionar o problema
 
 1 - Verifique se seu nome e email estão configurados no Git. Execute:
 git config --global user.email "seu_email"
